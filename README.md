@@ -1,5 +1,9 @@
-### Hello, I am Shravan BK👋
+### Hello👋, My name is Shravan BK
 Welcome to my Github page ⚡⚡⚡
+
+As a passionate cybersecurity enthusiast, I currently hold certifications in CompTIA Sec+ and Google Cybersecurity. I'm dedicated to enhancing my skills through continuous practice and learning opportunities.
+
+I hope you'll find my GitHub page interesting. Thank you for visiting!
 <!--
 **ShravanBk5/ShravanBk5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
