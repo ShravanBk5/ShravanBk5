@@ -5,7 +5,6 @@ As a cybersecurity enthusiast, I'm dedicated to enhancing my skills through cont
 
 I hope you'll find my GitHub page interesting. Thank you for visiting!
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
 <!--
 **ShravanBk5/ShravanBk5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
